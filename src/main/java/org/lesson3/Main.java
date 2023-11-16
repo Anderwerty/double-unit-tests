@@ -1,4 +1,4 @@
-package org.example;
+package org.lesson3;
 
 import org.apache.commons.lang3.StringUtils;
 

@@ -1,4 +1,4 @@
-package org.example;
+package org.lesson3;
 
 
 public final class NumberUtils {
